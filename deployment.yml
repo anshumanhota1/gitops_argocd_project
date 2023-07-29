@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: flask-app-container
-        image: anshuman123abc/frontend
+        image: anshuman123abc/
         ports:
         - containerPort: 5000
